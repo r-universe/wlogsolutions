@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "logging"]
-	path = logging
-	url = https://github.com/wlogsolutions/r-logging
-	shallow = true
-	subdir = pkg
-	registered = true
